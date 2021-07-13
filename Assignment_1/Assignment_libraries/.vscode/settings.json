@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "myutils.h": "c",
+        "mystring.h": "c"
+    }
+}
